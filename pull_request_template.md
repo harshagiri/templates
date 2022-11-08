@@ -2,12 +2,13 @@
 - A short description of the PR
 
 #### Confluence and JIRA Links
-## Design Document(s)
-## JIRA(s)
-- Add links to tickets
+###### Design Document(s)  
+- Add links to confluence design
+###### JIRA(s)
+- Add links to JIRA tickets
 
 ### Dev Functional Testing
-- [ ] QAlity JIRA pointing towards Dev Functional Testing completion
+- QAlity JIRA pointing towards Dev Functional Testing completion
 
 #### Deployment Pre-requisite
 - Any configuration change or any other pre-requisites should be mentioned here.
