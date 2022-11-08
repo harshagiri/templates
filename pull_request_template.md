@@ -16,4 +16,7 @@
 #### Impacted Modules
 - List all modules and libraries that are impacted by this change
 
+#### Local build success screen shot with timestamp
+- Add a screen shot of local build success with every PR raised
+
 ### Additional Information (if any)
