@@ -1,0 +1,63 @@
+{
+   "patient":{
+      "id": "12345",
+      "first_name": "John",
+      "last_name": "Doe",
+      "gender": "male",
+      "date_of_birth": "1970-01-01",
+      "contact":{
+         "email": "johndoe@email.com",
+         "phone": "123-456-7890"
+      },
+      "address":{
+         "street": "123 Main St",
+         "city": "Anytown",
+         "state": "CA",
+         "zip": "12345"
+      },
+      "allergies":[
+         {
+            "name": "Penicillin",
+            "severity": "moderate"
+         },
+         {
+            "name": "Peanuts",
+            "severity": "severe"
+         }
+      ],
+      "medications":[
+         {
+            "name": "Lipitor",
+            "dose": "20mg",
+            "route": "oral",
+            "frequency": "daily"
+         },
+         {
+            "name": "Metformin",
+            "dose": "1000mg",
+            "route": "oral",
+            "frequency": "twice daily"
+         }
+      ],
+      "conditions":[
+         {
+            "name": "Type 2 Diabetes",
+            "diagnosed_date": "2015-01-01"
+         },
+         {
+            "name": "Hypertension",
+            "diagnosed_date": "2010-01-01"
+         }
+      ],
+      "procedures":[
+         {
+            "name": "Colonoscopy",
+            "date": "2022-01-01"
+         },
+         {
+            "name": "Cholecystectomy",
+            "date": "2018-01-01"
+         }
+      ]
+   }
+}
